@@ -1,4 +1,4 @@
-![banner](https://github.com/JenniferDominique/Realidade_Virtual-VR/blob/master/Imagens/Capa-Airplane.png)
+<img alt="banner do projeto" title="Airplane Door Build" src="https://github.com/littlebru/Realidade_Virtual-VR/blob/master/Imagens/Capa-Airplane.png">
 
 Esse é um repositório referente ao curso de Interação Humano Computador (IHC), do curso de ensino superior de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC - SJC), 1° Semestre 2020.
 
@@ -9,26 +9,26 @@ A proposta deste projeto é desenvolver um programa em Realidade Virtual que sej
 O projeto é voltado para o setor de montagem, para o treinamento de funcionários de uma empresa de fabricação de peças aeronáuticas, auxiliando os funcionários a entender o processo de montagem de uma porta de avião.
 
 ### Tecnologias Utilizadas
-<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/A-frame.png" width="30px;" title="A-frame logo">    [A-frame](https://aframe.io):
+<img src="https://github.com/littlebru/Realidade_Virtual-VR/blob/master/Imagens/A-frame.png" width="30px;" title="A-frame logo">    [A-frame](https://aframe.io):
 Framework utilizado para construção de projetos focados em realidade virtual
 
-<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Glitch.png" width="30px;" title="Glitch logo">    [Glitch](https://glitch.com):
+<img src="https://github.com/littlebru/Realidade_Virtual-VR/blob/master/Imagens/Glitch.png" width="30px;" title="Glitch logo">    [Glitch](https://glitch.com):
 Plataforma utilizada para desenvolvimento do projeto utilizando as linguagens CSS, HTML e JavaScript de forma mais ágil e compartilhada.
 
-<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Codepen.png" width="30px;" title="Codepen logo">    [Codepen](https://codepen.io):
+<img src="https://github.com/littlebru/Realidade_Virtual-VR/blob/master/Imagens/Codepen.png" width="30px;" title="Codepen logo">    [Codepen](https://codepen.io):
 Plataforma utilizada para o inicio do desenvolvimento do projeto utilizando as linguagens CSS, HTML e JavaScript.
 <br><br>
 
 ### Desenvolvimento
-* [SPRINT 01](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2001)
-* [SPRINT 02](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2002)
-* [SPRINT 03](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2003)
-* [SPRINT 04](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2004)
+* [SPRINT 01](https://github.com/littlebru/Realidade_Virtual-VR/tree/master/Sprint%2001)
+* [SPRINT 02](https://github.com/littlebru/Realidade_Virtual-VR/tree/master/Sprint%2002)
+* [SPRINT 03](https://github.com/littlebru/Realidade_Virtual-VR/tree/master/Sprint%2003)
+* [SPRINT 04](https://github.com/littlebru/Realidade_Virtual-VR/tree/master/Sprint%2004)
 ------------------------------------------------------
 ### Acesse nosso projeto
-<a href="https://airplane-build-latecoere.glitch.me"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_projeto.gif" width="19.5%;" title="Acessar treinamento"></a>
-<a href="https://codepen.io/py_zza/pen/MWaqQeK?editors=1010"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_codepen.png" width="19.5%;" title="Visualizar projeto no Codepen"></a>
-<a href="https://glitch.com/~airplane-build-latecoere"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_glitch.png" width="19.5%;" title="Visualizar projeto no Glitch"></a>
+<a href="https://airplane-build-latecoere.glitch.me"><img src="https://github.com/littlebru/Realidade_Virtual-VR/blob/master/Imagens/botao_projeto.gif" width="19.5%;" title="Acessar treinamento"></a>
+<a href="https://codepen.io/py_zza/pen/MWaqQeK?editors=1010"><img src="https://github.com/littlebru/Realidade_Virtual-VR/blob/master/Imagens/botao_codepen.png" width="19.5%;" title="Visualizar projeto no Codepen"></a>
+<a href="https://glitch.com/~airplane-build-latecoere"><img src="https://github.com/littlebru/Realidade_Virtual-VR/blob/master/Imagens/botao_glitch.png" width="19.5%;" title="Visualizar projeto no Glitch"></a>
 
 ------------------------------------------------------
 
